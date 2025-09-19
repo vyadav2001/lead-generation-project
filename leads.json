@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Google",
+        "website": "http://www.google.com",
+        "employees": "N/A",
+        "insights": [
+            "Focuses on innovative software solutions.",
+            "Employs a dynamic team of developers.",
+            "Discusses hardware needs in recent updates."
+        ],
+        "contacts": {
+            "emails": [],
+            "phones": []
+        },
+        "valid_emails": [],
+        "message": "Subject: Enhancing Your Development Team's Performance with Custom PC Solutions\n\nDear Google Team,\n\nAs a leader in innovative software solutions, your team's dynamic development capabilities require cutting-edge hardware to drive progress and stay ahead of the curve. Our expertise in designing high-performance computers tailored for development teams can help optimize your workflows, boost productivity, and support your latest updates - from AI research to cloud infrastructure projects. Let's schedule a call to discuss how our custom PCs can address your specific hardware needs.\n\n[Add your contact information and a clearCall-to-Action]\n\nBest regards,\n[Your Name]\nFounder, Custom Hardware Solutions",
+        "score": 79
+    },
+    {
+        "name": "Amazon",
+        "website": "http://www.amazon.com",
+        "employees": "N/A",
+        "insights": [
+            "Focuses on innovative software solutions.",
+            "Employs a dynamic team of developers.",
+            "Discusses hardware needs in recent updates."
+        ],
+        "contacts": {
+            "emails": [],
+            "phones": []
+        },
+        "valid_emails": [],
+        "message": "Subject: Unlocking Innovative Potential through Custom Hardware Solutions\n\nDear Amazon Team,\n\nAs a leader in innovative software solutions, you likely rely on powerful hardware to drive development efficiency and innovation. Our team at [Store Name] has worked closely with organizations like yours to design high-performance computers tailored for development teams, leveraging cutting-edge components and expert cabling services. We'd love to discuss how our custom PC and server solutions can help augment your recent updates and support your dynamic team's needs.\n\nWould you be open to scheduling a quick call to explore potential opportunities?\n\nBest regards,\n[Your Name]\nFounder, Custom Hardware Solutions",
+        "score": 77
+    },
+    {
+        "name": "LinkedIn",
+        "website": "http://www.linkedin.com",
+        "employees": "N/A",
+        "insights": [
+            "Focuses on innovative software solutions.",
+            "Employs a dynamic team of developers.",
+            "Discusses hardware needs in recent updates."
+        ],
+        "contacts": {
+            "emails": [],
+            "phones": []
+        },
+        "valid_emails": [],
+        "message": "Subject: Unlock High-Performance Computing Solutions for Your Innovative Software Ventures\n\nDear LinkedIn Team,\n\nAs a fellow innovator in the software solutions space, we've been impressed by your dynamic approach to development and commitment to delivering cutting-edge products. Our team at [Hardware Store Name] has noticed that recent updates have highlighted the importance of reliable hardware to support your innovative endeavors. We believe our custom PC and server solutions can help address these needs, particularly for development teams requiring high-performance computing.\n\nWe'd love to explore how our expertise can support your business goals and would be happy to schedule a quick call to discuss further.\n\n[Call-to-action: Schedule a Call]\n\nBest regards,\n[Your Name]\nFounder, Custom Hardware Solutions",
+        "score": 81
+    },
+    {
+        "name": "Microsoft",
+        "website": "http://www.microsoft.com",
+        "employees": "N/A",
+        "insights": [
+            "Focuses on innovative software solutions.",
+            "Employs a dynamic team of developers.",
+            "Discusses hardware needs in recent updates."
+        ],
+        "contacts": {
+            "emails": [],
+            "phones": []
+        },
+        "valid_emails": [],
+        "message": "Subject: Enhancing Your Development Teams with Custom Hardware Solutions\n\nDear Microsoft Team,\n\nAs we've noticed in recent updates, your focus on innovative software solutions and dedication to empowering your developers through dynamic teams has been inspiring. Our team at [Hardware Store Name] would like to offer our expertise in catering to the unique hardware needs of your development teams, providing high-performance computers tailored to meet their specific requirements. By partnering with us, you can ensure seamless integration between your innovative software and robust hardware infrastructure.\n\nWould you be open to discussing how our custom PC solutions can support your business goals? I'd love to schedule a quick call to explore potential opportunities further.\n\nBest regards,\n[Your Name]\nFounder, Custom Hardware Solutions",
+        "score": 82
+    },
+    {
+        "name": "TED Conferences",
+        "website": "http://www.ted.com",
+        "employees": "N/A",
+        "insights": [
+            "Focuses on innovative software solutions.",
+            "Employs a dynamic team of developers.",
+            "Discusses hardware needs in recent updates."
+        ],
+        "contacts": {
+            "emails": [],
+            "phones": []
+        },
+        "valid_emails": [],
+        "message": "Subject: Custom PC Solutions for Innovative Software Development Teams\n\nDear TED Conferences Team,\n\nWe've been following your recent updates on innovative software solutions and are impressed by the dynamic team of developers driving your mission forward. Your focus on cutting-edge technology aligns with our expertise in providing high-performance computers tailored to development teams, enabling seamless collaboration and accelerated innovation. We'd love to discuss how our custom PC solutions can support your growing needs.\n\nWould you be open to a quick call to explore how we can help?\n\n[Your company's contact information]\n\nBest regards,\n[Your Name]\nFounder, Custom Hardware Solutions",
+        "score": 84
+    }
+]
