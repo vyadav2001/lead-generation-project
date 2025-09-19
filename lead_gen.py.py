@@ -7,7 +7,7 @@ import random
 import re
 
 
-APOLLO_API_KEY = "VQ3wlo_n9tuBI6Rh-49vqA"
+APOLLO_API_KEY = "VQ3wlo_n9tuBI6Rh-49vqA"  ## Just for the reference, later to be added in .env file
 
 
 client = OpenAI(
